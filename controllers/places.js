@@ -6,14 +6,14 @@ app.get('/', (req, res) => {
         name: 'H-Thai-ML',
         city: 'Seattle',
         state: 'WA',
-        cuisines: 'Thai, Pan-Asian',
-        pic: 'http://placekitten.com/250/250'
+        cuisines: 'indian',
+        pic: '/images/cafe2.jpg'
       }, {
-        name: 'Coding Cat Cafe',
-        city: 'Phoenix',
-        state: 'AZ',
+        name: 'City Cafe',
+        city: 'Raliegh',
+        state: 'NC',
         cuisines: 'Coffee, Bakery',
-        pic: 'http://placekitten.com/250/250'
+        pic: '/images/cafe.jpg'
       }]
       
       res.render('places/index', { places })
