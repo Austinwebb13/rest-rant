@@ -2,10 +2,20 @@ h1 {
     text-align: center;
     color: cornflowerblue;
   }
+
+  h2{
+    color:lightblue;
+  }
+
+  h3{
+    color:lightblue;
+  }
+
   img {
     width: 500px;
     height: 500px;
   }
+
   nav {
     background-color: cornflowerblue;
     padding: 10px;
