@@ -8,8 +8,7 @@ function home () {
       <Def>
           <main>
    
-              <h1>HOME</h1>
-            
+              <h1>REST-Rant</h1>
               <div>
               <img src='/images/perfect-burger.jpg' alt='perfect burger' />
              
